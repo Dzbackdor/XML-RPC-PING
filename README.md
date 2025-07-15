@@ -17,7 +17,7 @@ Aplikasi ini dibuat untuk membantu para pemilik website atau blogger agar artike
 
 ### Cara menjalankan:
 
-1. Download file `xmlping.exe` dari [Releases](https://github.com/Dzbackdor/XML-RPC-Ping/releases).
+1. Download file `xmlping.exe` [disini](https://github.com/Dzbackdor/XML-RPC-Ping/releases)
 2. Jalankan file `xmlping.exe` dengan klik dua kali.
 3. Masukkan daftar URL artikel yang ingin diping.
 4. Klik **Mulai Ping**.
